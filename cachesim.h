@@ -1,10 +1,3 @@
-/*
- * CS3375 Computer Architecture
- * Course Project
- * Cache Simulator Design and Development
- * FALL 2017
- * By Yong Chen
- */
 
 #define BLOCK_SIZE  64        /* Cache block size (or cache line size) in bytes \\
                                  (must be power of 2). 4 Bytes = 1 Word */
